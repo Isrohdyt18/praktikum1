@@ -10,7 +10,6 @@ d. tampilkan hasil luas persegi panjang;
 
 program menggunakan c++
 #include <iostream>
-
 using namespace std;
 int main ()
 {
@@ -35,9 +34,7 @@ c. jika bilagan yang di input selain genap hasilnya "ganjil";
 d. cout hasilnya;
 
 program menggunakan c++
-
 #include <iostream>
-
 using namespace std;
 
 int main()
